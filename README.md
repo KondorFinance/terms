@@ -133,7 +133,7 @@ PLEASE READ THIS SECTION CAREFULLY – IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RI
 
 11.2 Class Action Waiver. YOU AND WE AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. YOU AND WE EXPRESSLY WAIVE ANY RIGHT TO FILE A CLASS ACTION OR SEEK RELIEF ON A CLASS BASIS. Unless both you and we agree, no arbitrator or judge may consolidate more than one person’s claims or otherwise preside over any form of a representative or class proceeding. The arbitrator may award injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party’s individual claim. If a court decides that applicable law precludes enforcement of any of this paragraph’s limitations as to a particular claim for relief, then that claim (and only that claim) must be severed from the arbitration and may be brought in court. If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provision set forth above shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate disputes.
 
-11.3 30-Day Right to Opt Out. You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of your decision to opt-out to: contact@Kondor.io with subject line LEGAL OPT OUT. The notice must be sent within 30 days of your first use of the Services, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, we will also not be bound by them.
+11.3 30-Day Right to Opt Out. You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of your decision to opt-out to: hello@Kondor.finance with subject line LEGAL OPT OUT. The notice must be sent within 30 days of your first use of the Services, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, we will also not be bound by them.
 
 12. Miscellaneous.
 12.1 Assignment. You will not assign or otherwise transfer this Agreement or any of your rights and obligations under this Agreement, without our prior written consent. Any assignment or transfer in violation of this Section 12.1 will be void. We may assign this Agreement without your consent (a) in connection with a merger, acquisition or sale of all or substantially all of our assets, or (b) to any Affiliate or as part of a corporate reorganization; and effective upon such assignment, the assignee is deemed substituted for us as a party to this Agreement and we are fully released from all of our obligations and duties to perform under this Agreement. Subject to the foregoing, this Agreement will be binding upon, and inure to the benefit of the parties and their respective permitted successors and assigns.
@@ -156,7 +156,7 @@ NOTICE TO PARENTS AND GUARDIANS: By granting your minor permission to access the
 
 (a) To You. We may provide any notice to you under this Agreement by: (i) posting a notice on the Site; or (ii) sending a message to the email address then associated with your Account. Notices we provide by posting on the Site will be effective upon posting and notices we provide by email will be effective when we send the email. It is your responsibility to keep your email address current. You will be deemed to have received any email sent to the email address then associated with your account when we send the email, whether or not you actually receive the email.
 
-(b) To Us. To give us notice under this Agreement, you must contact us at: contact@Kondor.io.
+(b) To Us. To give us notice under this Agreement, you must contact us at: hello@kondor.finance.
 
 12.9 No Third-Party Beneficiaries. Except as otherwise set forth herein, this Agreement does not create any third-party beneficiary rights in any individual or entity that is not a party to this Agreement.
 
@@ -172,7 +172,7 @@ a description of where the material that you claim is infringing is located on t
 your address, telephone number, and email address;
 a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
 a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner’s behalf.
-You can reach us at: contact@Kondor.io
+You can reach us at: hello@kondor.finance
 
 13. Definitions.
 “Acceptable Use Policy” means the policy set forth below, as it may be updated by us from time to time. You agree not to, and not to allow third parties to, use the Services:
